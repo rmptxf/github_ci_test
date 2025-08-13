@@ -1,4 +1,4 @@
-# Import requirements for nRF9160 Feather Examples and Drivers
+# Import requirements for nRF9160 Feather Examples and Driverss
 manifest:
   remotes:
     - name: nrfconnect
